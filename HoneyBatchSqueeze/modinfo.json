@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "name": "Honey Batch Squeeze",
+  "modid": "honeybatchsqueeze",
+  "version": "1.0.0",
+  "description": "Allows squeezing the whole stack of honeycombs into a container",
+  "authors": [ "KnewOne" ],
+  "side": "server",
+  "dependencies": {
+    "survival": "1.21.0"
+  }
+}
